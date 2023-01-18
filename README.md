@@ -7,7 +7,7 @@ For the purpose of this project, a delay was defined as an arrival that is at le
 Activities performed included: data preprocessing, model building, and performance evaluation.
 Algorithms implemented included: Naive Bayes, Classification and Regression Trees (decision trees), and Logistic Regression.
 
-Refer to the following files:
+Files in this project:
 1. Comparing flight delay predictions.ipynb - a Jupyter notebook to implement the code.
 2. Flight delays.csv - a Comma Separated Values file containing the raw flight data.
 3. Flight delay predictions report.pdf - a Portable Document File written in IEEE format.
