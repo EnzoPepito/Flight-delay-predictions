@@ -4,7 +4,7 @@ This file contained information on commercial flights that departed Washington, 
 The objective of the project had been to train supervised learning models to predict whether a flight will be delayed.
 For the purpose of this project, a delay was defined as an arrival that is at least 15 minutes later than scheduled.
 
-Activities performed included: data preprocessing, model building, and performance evaluation.
+Activities performed include: data preprocessing, model building, and performance evaluation.
 Algorithms implemented included: Naive Bayes, Classification and Regression Trees (decision trees), and Logistic Regression.
 
 Files in this project:
