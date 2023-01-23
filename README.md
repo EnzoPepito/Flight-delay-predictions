@@ -10,4 +10,4 @@ Algorithms implemented included: Naive Bayes, Classification and Regression Tree
 Files in this project:
 1. Comparing flight delay predictions.ipynb - a Jupyter notebook to implement the code.
 2. Flight delays.csv - a Comma Separated Values file containing the raw flight data.
-3. Flight delay predictions report.pdf - a Portable Document File written in IEEE format.
+3. Flight delay predictions report.pdf - a Portable Document File written in IEEE format. 
